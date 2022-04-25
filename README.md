@@ -1,3 +1,3 @@
-# themes
-FlakeOS as default use the Orchis theme
-https://github.com/vinceliuice/Orchis-theme
+# FlakeOS Theme
+
+FlakeOS as default use the Orchis theme https://github.com/vinceliuice/Orchis-theme
