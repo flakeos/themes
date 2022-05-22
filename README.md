@@ -1,3 +1,3 @@
 # FlakeOS Theme
 
-FlakeOS as default use the Orchis theme https://github.com/vinceliuice/Orchis-theme
+FlakeOS as default use the Linux Mint Y Aqua theme
