@@ -1,3 +1,3 @@
 # FlakeOS Theme
 
-FlakeOS as default use the Kora icon Theme
+FlakeOS as default use the Orchis icon Theme
